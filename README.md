@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codedushyant&show_icons=true&locale=en" alt="codedushyant" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codedushyant&" alt="codedushyant" /></p>
+<p><img align="center" src="./icons8-codeforces-24.png" alt="codedushyant" /></p>
